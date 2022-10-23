@@ -6,6 +6,7 @@
 ### 1) Верстка блока
 
 Репозиторий: https://github.com/nickgrief/nevatrip-test-2
+Сайт: https://nickgrief.github.io/nevatrip-test-2/
 
 Технологии: Vite, TypeScript, React, Tailwind
 
