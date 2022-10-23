@@ -30,7 +30,8 @@
 
 ### 2) Время из A в B
 
-Код находится с этом репозитории.
+Код находится в этом репозитории.
 Сайт: https://nickgrief.github.io/nevatrip-js/
 
 Технологии: Vite, TypeScript, React, Tailwind
+
